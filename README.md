@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Meenakshi   
 
 *Building the bridge between technology, business, and human impact.*
-
+> “Driven by curiosity. Guided by purpose. Building the future, one product at a time.”
 ---
 
 ### 🌍 About Me  
@@ -47,10 +47,5 @@ I enjoy coding prototypes that bring product ideas to life — from APIs to AI-p
 
 ### 🤝 Connect with Me  
 
-- **LinkedIn:** [[linkedin.com/in/meenakshi-ka](#)](https://www.linkedin.com/in/meenakshik/)   
-
-> “Driven by curiosity. Guided by purpose. Building the future, one product at a time.”
-
+⭐️ If you share an interest in AI-driven product innovation or digital transformation, let’s collaborate!
 ---
-
-⭐️ *If you share an interest in AI-driven product innovation or digital transformation, let’s collaborate!*
